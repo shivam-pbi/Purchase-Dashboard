@@ -1,4 +1,4 @@
-# 🛍️ Purchase Dashboard – Store Survey Analysis (Power BI/ SQL/ Python)
+# 🛍️ Purchase Dashboard – Store Survey Analysis Power BI/ SQL/ Python
 
 This dashboard analyzes store survey data across multiple cities and store settings (Urban, Suburb, Rural) to track customer purchasing behavior, item preferences, exchange types, and store-wise sales performance.
 
