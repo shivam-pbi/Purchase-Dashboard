@@ -60,7 +60,7 @@ Python was used alongside Power BI for initial **data processing and enrichment*
 
 ## 🧰 Tools Used
 - Power BI:	Visual dashboarding, interactivity, KPI cards
-- Excel/CSV:	Raw data source format
+- Excel & CSV:	Raw data source format
 - PostgreSQL: Data validation, verification & extraction
 - Python (pandas, matplotlib)	Preprocessing, age bucketing, grouping, monthly rollups
 
