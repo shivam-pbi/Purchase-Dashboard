@@ -46,6 +46,8 @@ Python was used alongside Power BI for initial **data processing and enrichment*
 - Aggregated monthly data for MTD/YTD visualizations
 - Enhanced categorical mapping for store settings and purchase types
 
+---
+
 ## 📌 Key Insights
 - Total Purchase Amount across 4 cities: $642K+, with Suburb stores contributing the most
 - Highest Purchase Cities: New York ($167K), Los Angeles ($167K), Seattle (~$160K)
@@ -53,6 +55,8 @@ Python was used alongside Power BI for initial **data processing and enrichment*
 - Exchange-based purchases outpaced direct cash/card payments in several cities
 - June and May recorded highest MTD purchase spikes – ideal for campaign planning
 - Outdoor Sport Kits had highest sales in Rural/Suburb areas among 15–19 age group
+
+---
 
 ## 🧰 Tools Used
 - Power BI:	Visual dashboarding, interactivity, KPI cards
